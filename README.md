@@ -1,27 +1,30 @@
-# 📊 Financial Inclusion in South Africa – Data Analysis Project
+# 🧪 OmniBank – QA Portfolio Project
 
-This project uses real-world financial data to analyze banking access, spending behavior, and loan default risk.
+This project demonstrates a full QA lifecycle for a fictional online banking app. It includes **manual testing**, **automation**, **API testing**, and a **BORT testing strategy**.
 
-## 📁 Structure
+## 🔧 Tech Stack
+`Java` `Selenium` `Cypress` `Postman` `TestNG` `Jira` `ALM Octane`
+
+## 📁 Project Structure
 
 | Folder | Contents |
 |--------|----------|
-| `data/` | Cleaned CSV file |
-| `notebooks/` | Python data analysis + modeling |
-| `dashboards/` | Power BI and Tableau visuals |
-| `model/` | ML model (Random Forest) |
+| `manual/` | Test Plan, Test Cases (Excel), Defect Log |
+| `automation/` | Selenium Java test suite with TestNG |
+| `cypress/` | Basic Cypress UI tests |
+| `api/` | Postman API tests + API strategy |
+| `bort-testing/` | PDF strategy document for BORT |
 
-## 🧠 Key Insights
-- 78% of default risk tied to income + transaction behavior
-- Gauteng region has highest active account base
-- Mobile banking adoption highest in 25–35 age group
+## ✅ Key Features
+- 🔍 Comprehensive manual test documentation
+- 🤖 UI test automation with TestNG
+- 🔄 API testing via Postman
+- 📱 Mobile and Web test focus
+- 🔐 BORT Testing for Banking Security
 
-## ⚙️ Tools Used
-`Python` `Pandas` `Scikit-learn` `Power BI` `Tableau` `Jupyter` `Matplotlib` `Seaborn`
-
-## 📸 Dashboard Snapshots
-> Embed screenshots of Power BI & Tableau dashboards here
+## 📸 Screenshots
+> Add images or GIFs of test runs or reports here
 
 ---
 
-Built by [Ivy Sadiki](https://github.com/Isadiki) • [LinkedIn](https://www.linkedin.com/in/ivy-sadiki)
+Made with 💙 by [Ivy Sadiki](https://github.com/Isadiki)
